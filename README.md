@@ -1,4 +1,4 @@
-# Deep CNN Autoencoder
+# Deep CNN Autoencoder - Image Compression - Denoising Image
 
 Welcome to the **Deep CNN Autoencoder** project! This repository contains the code and resources for building a deep convolutional neural network (CNN) autoencoder. The autoencoder is designed to learn efficient representations of data by encoding input data into a lower-dimensional space and then reconstructing it back to its original form.
 
